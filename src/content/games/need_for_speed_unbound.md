@@ -1,10 +1,11 @@
 ---
 name: "Need for Speed Unbound"
-categories: [unknown]
+categories: [actionandadventure]
 publisher: Electronic Arts
-compatibility: unplayable
-device_configuration: Snapdragon X Elite - 32 GB
-date_tested: 2024-04-29
-os_version: "26100.1"
-driver_id: 31.0.52.0
+compatibility: runs
+device_configuration: Snapdragon X Elite - 16 GB
+date_tested: 2025-02-28
+os_version: "Windows 11 24H2"
+driver_id: 31.0.82.0
+compatibility_details: "runs decently in 720p. Shame there is no way to play in 1440/960"
 ---
